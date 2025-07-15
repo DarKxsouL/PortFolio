@@ -59,10 +59,10 @@ const Projects = () => {
         'https://drive.google.com/file/d/1mljyVd-mt14o6m8fK5shqrSjicoLZzsD/view'
     },
     {
-      title: 'Brick Braker Game',
+      title: 'Brick Breaker Game',
       description:
-        'Desktop application for managing inventory with features like stock tracking, supplier management, and reporting.',
-      tech: ['Java', 'Swing', 'MySQL', 'JDBC'],
+        'A simple brick breaker game created for fun. Start playing the game and relax your mind...',
+      tech: ['Java', 'Swing', 'JavaFX'],
       github: 'https://github.com/DarKxsouL/BrickBrakerGame',
       video:
         'https://drive.google.com/file/d/1umeU0GMRGN8vUz7wSbY6O0196VC1iRhf/view'
@@ -70,8 +70,8 @@ const Projects = () => {
     {
       title: 'Chat Application',
       description:
-        'A functional calculator application built with Java Swing, supporting basic and advanced mathematical operations.',
-      tech: ['Java', 'javafx', 'AWT'],
+        'Server broadcasting based chat application where clients chat with each other using the server.',
+      tech: ['Java', 'JavaFX', 'AWT'],
       github: 'https://github.com/DarKxsouL/JavaChatApp',
       video:
         'https://drive.google.com/file/d/161EzbPOJHPTMkwJfZ8vcUa2OMBmys1TT/view'
@@ -88,17 +88,17 @@ const Projects = () => {
     {
       title: 'Bank Application',
       description:
-        'Desktop application for managing inventory with features like stock tracking, supplier management, and reporting.',
+        'Basic bank account management application where the user can deposit and withdraw money.',
       tech: ['Java', 'Swing', 'MySQL', 'JDBC'],
       github: 'https://github.com/DarKxsouL/BankApplication',
       video:
         'https://drive.google.com/file/d/1L1-OedjIIKPBTfQfOAQxKFBtCrcOA2-5/view'
     },
     {
-      title: 'Currancy Convertor',
+      title: 'Currency Converter',
       description:
-        'A functional calculator application built with Java Swing, supporting basic and advanced mathematical operations.',
-      tech: ['Java', 'Swing', 'AWT'],
+        'Wanna settle outside the country? First check the currency using my currency converter.',
+      tech: ['Java', 'JavaFX'],
       github: 'https://github.com/DarKxsouL/CurrancyConvertor',
       video:
         'https://drive.google.com/file/d/1vdswq7U0vTuFUoxYRHiW0S84hpH_EDnb/view'
@@ -106,7 +106,7 @@ const Projects = () => {
     {
       title: 'To Do List App',
       description:
-        'A functional calculator application built with Java Swing, supporting basic and advanced mathematical operations.',
+        'Manage your tasks with my To-Do-List Application.',
       tech: ['Java', 'Swing', 'AWT'],
       github: 'https://github.com/DarKxsouL/ToDoListApp',
       video:
