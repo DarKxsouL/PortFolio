@@ -27,7 +27,7 @@ const Certificates = () => {
       link: "https://www.scaler.com/topics/course/free-react-js-course/",
       linkedin:"https://www.linkedin.com/posts/jiteshadekar_reactjs-scalertopics-certificateofexcellence-activity-7346808838089543680-z_MH?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEY3-o0BPAux8aX0whViMjLy4F9qI5j_wdk",
       color: "from-blue-300 to-blue-700",
-      image: "/src/certImg/ReactJSScolarCert.png"
+      image: "./src/certImg/ReactJSScolarCert.png"
     },
     {
       title: "Getting Started with NodeJS",
