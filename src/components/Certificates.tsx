@@ -27,7 +27,7 @@ const Certificates = () => {
       link: "https://www.scaler.com/topics/course/free-react-js-course/",
       linkedin:"https://www.linkedin.com/posts/jiteshadekar_reactjs-scalertopics-certificateofexcellence-activity-7346808838089543680-z_MH?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEY3-o0BPAux8aX0whViMjLy4F9qI5j_wdk",
       color: "from-blue-300 to-blue-700",
-      image: "./src/certImg/ReactJSScolarCert.png"
+      image: "/lovable-uploads/ReactJSScolarCert.png"
     },
     {
       title: "Getting Started with NodeJS",
@@ -37,7 +37,7 @@ const Certificates = () => {
       link: "https://simpli-web.app.link/e/OKb5rWQzOUb",
       linkedin:"https://www.linkedin.com/posts/jiteshadekar_nodejs-professionalgrowth-simplilearn-activity-7341085332924207107-3xGW?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEY3-o0BPAux8aX0whViMjLy4F9qI5j_wdk",
       color: "from-yellow-300 to-red-700",
-      image: "/src/certImg/NodeJSCertSimplilearn.jpg"
+      image: "/lovable-uploads/NodeJSCertSimplilearn.jpg"
     },
     {
       title: "Java Training Certification",
@@ -47,7 +47,7 @@ const Certificates = () => {
       link: "https://www.linkedin.com/posts/jiteshadekar_java-javatraining-softwaredevelopment-activity-7291795331673903104-7d9Z?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEY3-o0BPAux8aX0whViMjLy4F9qI5j_wdk",
       linkedin:"https://www.linkedin.com/posts/jiteshadekar_java-javatraining-softwaredevelopment-activity-7291795331673903104-7d9Z?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEY3-o0BPAux8aX0whViMjLy4F9qI5j_wdk",
       color: "from-orange-500 to-red-500",
-      image: "/src/certImg/BesantTechJava.jpg"
+      image: "/lovable-uploads/BesantTechJava.jpg"
     },
     {
       title: "Getting Started with Full Stack Java Development",
@@ -57,7 +57,7 @@ const Certificates = () => {
       link: "https://simpli-web.app.link/e/0qGrG5XzOUb",
       linkedin:"https://www.linkedin.com/posts/jiteshadekar_java-fullstackdevelopment-softwareengineering-activity-7304916629593694208-Eegc?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEY3-o0BPAux8aX0whViMjLy4F9qI5j_wdk",
       color: "from-blue-500 to-indigo-500",
-      image: "/src/certImg/JavaFullStackSimpliLearnCertificate.jpg"
+      image: "/lovable-uploads/JavaFullStackSimpliLearnCertificate.jpg"
     },
     {
       title: "Java Programming for Beginners",
@@ -67,7 +67,7 @@ const Certificates = () => {
       link: "https://simpli-web.app.link/e/VJlnS43zOUb",
       linkedin:"https://www.linkedin.com/posts/jiteshadekar_java-softwaredevelopment-programming-activity-7304915608649773057-ez4u?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEY3-o0BPAux8aX0whViMjLy4F9qI5j_wdk",
       color: "from-red-900 to-pink-400",
-      image: "/src/certImg/JavaForBegginersSimplilearn.jpg"
+      image: "/lovable-uploads/JavaForBegginersSimplilearn.jpg"
     },
     {
       title: "Advanced SQL",
@@ -77,7 +77,7 @@ const Certificates = () => {
       link: "https://www.mygreatlearning.com/certificate/RCMKEAET",
       linkedin:"https://www.linkedin.com/posts/jiteshadekar_greatlearningacademy-greatlearning-glacertificate-activity-7219389988566650880-fnLm?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEY3-o0BPAux8aX0whViMjLy4F9qI5j_wdk",
       color: "from-green-500 to-teal-500",
-      image: "/src/certImg/AdvancedSQL.jpg"
+      image: "/lovable-uploads/AdvancedSQL.jpg"
     },
     {
       title: "Career Essentials in Cybersecurity by Microsoft and LinkedIn",
@@ -87,7 +87,7 @@ const Certificates = () => {
       link: "#",
       linkedin:"https://www.linkedin.com/posts/jiteshadekar_cybersecurity-informationsecurity-threatmanagement-activity-7307431610386108416-dq7V?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEY3-o0BPAux8aX0whViMjLy4F9qI5j_wdk",
       color: "from-black to-gray",
-      image: "/src/certImg/CyberSecurity.jpg"
+      image: "/lovable-uploads/CyberSecurity.jpg"
     },
     {
       title: "Basic of Python",
@@ -97,7 +97,7 @@ const Certificates = () => {
       link: "https://www.linkedin.com/posts/jiteshadekar_python-coding-techjourney-activity-7304914107831357440--VaP?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEY3-o0BPAux8aX0whViMjLy4F9qI5j_wdk",
       linkedin:"https://www.linkedin.com/posts/jiteshadekar_python-coding-techjourney-activity-7304914107831357440--VaP?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEY3-o0BPAux8aX0whViMjLy4F9qI5j_wdk",
       color: "from-purple-500 to-pink-500",
-      image: "/src/certImg/BasicsOfPython.jpg"
+      image: "/lovable-uploads/BasicsOfPython.jpg"
     },
     {
       title: "PHP for Beginners",
@@ -107,7 +107,7 @@ const Certificates = () => {
       link: "https://www.mygreatlearning.com/certificate/AZMFQFJG",
       linkedin:"https://www.linkedin.com/posts/jiteshadekar_greatlearningacademy-greatlearning-glacertificate-activity-7219385530575147010-uVRR?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEY3-o0BPAux8aX0whViMjLy4F9qI5j_wdk",
       color: "from-green-900 to-green-300",
-      image: "/src/certImg/PhpGL.jpg"
+      image: "/lovable-uploads/PhpGL.jpg"
     },
     {
       title: "HTML and CSS Javascript Certifications",
@@ -117,7 +117,7 @@ const Certificates = () => {
       link: "https://www.mygreatlearning.com/certificate/WVTQAICM",
       linkedin:"https://www.linkedin.com/posts/jiteshadekar_webdevelopment-html-greatlearning-activity-7304720646914088961-ahc-?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEY3-o0BPAux8aX0whViMjLy4F9qI5j_wdk",
       color: "from-red-500 to-black",
-      image: "/src/certImg/HTMLGL.jpg"
+      image: "/lovable-uploads/HTMLGL.jpg"
     },
     {
       title: "Ethical Hacking and Certificate of Training",
@@ -127,7 +127,7 @@ const Certificates = () => {
       link: "https://www.linkedin.com/posts/jiteshadekar_cybersecurity-ethicalhacking-owasp-activity-7304919005364920320-ldAD?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEY3-o0BPAux8aX0whViMjLy4F9qI5j_wdk",
       linkedin:"https://www.linkedin.com/posts/jiteshadekar_cybersecurity-ethicalhacking-owasp-activity-7304919005364920320-ldAD?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEY3-o0BPAux8aX0whViMjLy4F9qI5j_wdk",
       color: "from-orange-500 to-yellow-500",
-      image: "/src/certImg/EthicalHacking.jpg"
+      image: "/lovable-uploads/EthicalHacking.jpg"
     },
   ];
 
