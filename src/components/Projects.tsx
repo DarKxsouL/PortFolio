@@ -11,7 +11,7 @@ import { Github, ExternalLink } from 'lucide-react'
 const Projects = () => {
   const projects = [
     {
-      title: 'WatchOut',
+      title: 'Movie Library',
       description:
         'Wanna watch the latest and popular movies with real-time updates? WatchOut is the platform you are looking for!',
       tech: [
@@ -23,7 +23,7 @@ const Projects = () => {
         'FireBase'
       ],
       github: 'https://github.com/DarKxsouL/React_Projects',
-      demo: 'https://imdb-clone-app-ashy.vercel.app/'
+      demo: 'https://movies-rating-psi.vercel.app/'
     },
     {
       title: 'Calendo',
@@ -31,23 +31,15 @@ const Projects = () => {
         'Manage your reminders and events with ease. Calendo is a simple yet productive and intuitive calendar. Sign up to Calendo sat manage your personel events and reminders with high security and privacy.',
       tech: ['HTML', 'CSS', 'JavaScript', 'FireBase'],
       github: 'https://github.com/DarKxsouL/Calendo',
-      demo: 'https://calendo-git-main-jiteshs-projects-c5b58d74.vercel.app'
+      demo: 'https://calendo-weld.vercel.app/'
     },
-    // {
-    //   title: 'ShopIt',
-    //   description:
-    //     'Confused where to find the right product at the minimum cost? Look no further! ShopIt is the perfect solution for you.',
-    //   tech: ['React', 'Typescript', 'MySQL', 'React'],
-    //   github: '#',
-    //   demo: '#'
-    // },
     {
       title: 'Car Karo',
       description:
         'A car rental application that offers a range of cars with various options, including rental rates, locations, and reservation system.',
       tech: ['HTML', 'CSS', 'JavaScript', 'MySQL', 'Php'],
       github: 'https://github.com/DarKxsouL/CallKaro',
-      demo: 'https://carkaro.infinityfreeapp.com/'
+      demo: 'https://carkaro.infinityfree.me/'
     },
     {
       title: 'Face Sync',
