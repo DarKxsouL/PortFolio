@@ -41,69 +41,69 @@ const Projects = () => {
       github: 'https://github.com/DarKxsouL/CallKaro',
       demo: 'https://carkaro.infinityfree.me/'
     },
-    {
-      title: 'Face Sync',
-      description:
-        'Computer vision application that makes your attendance system more efficient and accurate by using computer vision to detect faces and track their attendance.',
-      tech: ['Python', 'OpenCV', 'Machine Learning'],
-      github: 'https://github.com/DarKxsouL/Face_Sync',
-      video:
-        'https://drive.google.com/file/d/1mljyVd-mt14o6m8fK5shqrSjicoLZzsD/view'
-    },
-    {
-      title: 'Brick Breaker Game',
-      description:
-        'A simple brick breaker game created for fun. Start playing the game and relax your mind...',
-      tech: ['Java', 'Swing', 'JavaFX'],
-      github: 'https://github.com/DarKxsouL/BrickBrakerGame',
-      video:
-        'https://drive.google.com/file/d/1umeU0GMRGN8vUz7wSbY6O0196VC1iRhf/view'
-    },
-    {
-      title: 'Chat Application',
-      description:
-        'Server broadcasting based chat application where clients chat with each other using the server.',
-      tech: ['Java', 'JavaFX', 'AWT'],
-      github: 'https://github.com/DarKxsouL/JavaChatApp',
-      video:
-        'https://drive.google.com/file/d/161EzbPOJHPTMkwJfZ8vcUa2OMBmys1TT/view'
-    },
-    {
-      title: 'Java Swing Calculator',
-      description:
-        'A functional calculator application built with Java Swing, supporting basic and advanced mathematical operations.',
-      tech: ['Java', 'Swing', 'AWT'],
-      github: 'https://github.com/DarKxsouL/JavaSwingCalculator ',
-      video:
-        'https://drive.google.com/file/d/1EiwUxFn8TdC2sRITJjRonaILf0HbpHf_/view'
-    },
-    {
-      title: 'Bank Application',
-      description:
-        'Basic bank account management application where the user can deposit and withdraw money.',
-      tech: ['Java', 'Swing', 'MySQL', 'JDBC'],
-      github: 'https://github.com/DarKxsouL/BankApplication',
-      video:
-        'https://drive.google.com/file/d/1L1-OedjIIKPBTfQfOAQxKFBtCrcOA2-5/view'
-    },
-    {
-      title: 'Currency Converter',
-      description:
-        'Wanna settle outside the country? First check the currency using my currency converter.',
-      tech: ['Java', 'JavaFX'],
-      github: 'https://github.com/DarKxsouL/CurrancyConvertor',
-      video:
-        'https://drive.google.com/file/d/1vdswq7U0vTuFUoxYRHiW0S84hpH_EDnb/view'
-    },
-    {
-      title: 'To Do List App',
-      description:
-        'Manage your tasks with my To-Do-List Application.',
-      tech: ['Java', 'Swing', 'AWT'],
-      github: 'https://github.com/DarKxsouL/ToDoListApp',
-      video:
-        'https://drive.google.com/file/d/1eIp4Peqei4v-jW8BhT1YnVrXmhFALug-/view'
-    }
+    // {
+    //   title: 'Face Sync',
+    //   description:
+    //     'Computer vision application that makes your attendance system more efficient and accurate by using computer vision to detect faces and track their attendance.',
+    //   tech: ['Python', 'OpenCV', 'Machine Learning'],
+    //   github: 'https://github.com/DarKxsouL/Face_Sync',
+    //   video:
+    //     'https://drive.google.com/file/d/1mljyVd-mt14o6m8fK5shqrSjicoLZzsD/view'
+    // },
+    // {
+    //   title: 'Brick Breaker Game',
+    //   description:
+    //     'A simple brick breaker game created for fun. Start playing the game and relax your mind...',
+    //   tech: ['Java', 'Swing', 'JavaFX'],
+    //   github: 'https://github.com/DarKxsouL/BrickBrakerGame',
+    //   video:
+    //     'https://drive.google.com/file/d/1umeU0GMRGN8vUz7wSbY6O0196VC1iRhf/view'
+    // },
+    // {
+    //   title: 'Chat Application',
+    //   description:
+    //     'Server broadcasting based chat application where clients chat with each other using the server.',
+    //   tech: ['Java', 'JavaFX', 'AWT'],
+    //   github: 'https://github.com/DarKxsouL/JavaChatApp',
+    //   video:
+    //     'https://drive.google.com/file/d/161EzbPOJHPTMkwJfZ8vcUa2OMBmys1TT/view'
+    // },
+    // {
+    //   title: 'Java Swing Calculator',
+    //   description:
+    //     'A functional calculator application built with Java Swing, supporting basic and advanced mathematical operations.',
+    //   tech: ['Java', 'Swing', 'AWT'],
+    //   github: 'https://github.com/DarKxsouL/JavaSwingCalculator ',
+    //   video:
+    //     'https://drive.google.com/file/d/1EiwUxFn8TdC2sRITJjRonaILf0HbpHf_/view'
+    // },
+    // {
+    //   title: 'Bank Application',
+    //   description:
+    //     'Basic bank account management application where the user can deposit and withdraw money.',
+    //   tech: ['Java', 'Swing', 'MySQL', 'JDBC'],
+    //   github: 'https://github.com/DarKxsouL/BankApplication',
+    //   video:
+    //     'https://drive.google.com/file/d/1L1-OedjIIKPBTfQfOAQxKFBtCrcOA2-5/view'
+    // },
+    // {
+    //   title: 'Currency Converter',
+    //   description:
+    //     'Wanna settle outside the country? First check the currency using my currency converter.',
+    //   tech: ['Java', 'JavaFX'],
+    //   github: 'https://github.com/DarKxsouL/CurrancyConvertor',
+    //   video:
+    //     'https://drive.google.com/file/d/1vdswq7U0vTuFUoxYRHiW0S84hpH_EDnb/view'
+    // },
+    // {
+    //   title: 'To Do List App',
+    //   description:
+    //     'Manage your tasks with my To-Do-List Application.',
+    //   tech: ['Java', 'Swing', 'AWT'],
+    //   github: 'https://github.com/DarKxsouL/ToDoListApp',
+    //   video:
+    //     'https://drive.google.com/file/d/1eIp4Peqei4v-jW8BhT1YnVrXmhFALug-/view'
+    // }
   ]
 
   const handleGithubClick = (githubUrl: string) => {
