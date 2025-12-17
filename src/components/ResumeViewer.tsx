@@ -49,7 +49,7 @@ const ResumeViewer = ({ isOpen, onClose }: ResumeViewerProps) => {
         {/* PDF Container - Full height with no gaps */}
         <div className="flex-1 bg-gray-100">
           <iframe
-            src="/resume.pdf"
+            src="/JiteshFullStackDev.pdf"
             className="w-full h-full border-0"
             title="Jitesh Adekar Resume"
             style={{ minHeight: 'calc(95vh - 80px)' }}
@@ -61,4 +61,5 @@ const ResumeViewer = ({ isOpen, onClose }: ResumeViewerProps) => {
 };
 
 export default ResumeViewer;
+
 
