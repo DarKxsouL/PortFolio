@@ -24,7 +24,7 @@ const ResumeViewer = ({ isOpen, onClose }: ResumeViewerProps) => {
               <Button
                 onClick={() => {
                   const link = document.createElement('a');
-                  link.href = '/resume.pdf';
+                  link.href = '/JiteshFullStackDev.pdf';
                   link.download = 'Jitesh_Adekar_Resume.pdf';
                   link.click();
                 }}
@@ -61,3 +61,4 @@ const ResumeViewer = ({ isOpen, onClose }: ResumeViewerProps) => {
 };
 
 export default ResumeViewer;
+
